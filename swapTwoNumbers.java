@@ -1,6 +1,5 @@
 package practice1;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Scanner;
 
 public class swapTwoNumbers {
